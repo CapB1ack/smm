@@ -12,4 +12,8 @@
 export default {}
 </script>
 
-<style></style>
+<style>
+  body, html {
+    font-family: 'Pacifico', arial;
+  }
+</style>
